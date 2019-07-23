@@ -1,5 +1,11 @@
-public class ContactListController {
+/**
+* A Contact Controller use to manage different data queries
+ */
+public with sharing class  ContactListController {
     	private String sortOrder = 'LastName';
+        /** 
+        * Get a list of Contact with a maximum 10 records
+         */
      	public List<Contact> getContacts(){
              String query = 'SELECT Id, FirstName, LastName, Title, Email ' +
              'FROM Contact ' +
