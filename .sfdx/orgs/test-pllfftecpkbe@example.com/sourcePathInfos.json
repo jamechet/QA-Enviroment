@@ -238,14 +238,14 @@
     [
         "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/classes/ContactListController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/classes/ContactListController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 650,
             "modifiedTime": 1563857546767,
             "changeTime": 1563857546767,
-            "contentHash": "dde18d26e8f2292ad9bc1cef805230f2218fcd32"
+            "contentHash": "dde18d26e8f2292ad9bc1cef805230f2218fcd32",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -308,8 +308,8 @@
             "isDirectory": false,
             "isMetadataFile": false,
             "size": 835,
-            "modifiedTime": 1563857552203,
-            "changeTime": 1563857552203,
+            "modifiedTime": 1563859143247,
+            "changeTime": 1563859143247,
             "contentHash": "eeccec57995ee62002101b1b14b6fe103e9267d8"
         }
     ]

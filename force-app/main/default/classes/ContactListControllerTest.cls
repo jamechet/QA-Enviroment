@@ -21,7 +21,7 @@ public class ContactListControllerTest {
     @isTest static void getContactTest(){
         ContactListController contacts = new ContactListController();
         List<Contact> conData = contacts.getContacts();
-        System.assertEquals(conData.size(), 1, 'assertContact'); 
+        System.assertEquals(conData.size(), 5, 'assertContact'); 
     }
 
 }
