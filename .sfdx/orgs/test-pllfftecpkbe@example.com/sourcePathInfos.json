@@ -34,14 +34,12 @@
         {
             "sourcePath": "/Users/723309/Desktop/QA-Enviroment/force-app/main/default",
             "isDirectory": true,
-            "size": 448,
-            "modifiedTime": 1563778314342,
-            "changeTime": 1563778328682,
-            "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+            "size": 480,
+            "modifiedTime": 1563779754401,
+            "changeTime": 1563779754401,
+            "contentHash": "2420936b22f3c881de460db5ee082d43dff6db91",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -77,16 +75,15 @@
     [
         "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/classes",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1563778314341,
-            "changeTime": 1563778328680,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 128,
+            "modifiedTime": 1563781061508,
+            "changeTime": 1563781061508,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "97952bf9e9333439339901ad1a4adc820fbb4e5b"
         }
     ],
     [
@@ -246,23 +243,49 @@
             "sourcePath": "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/classes/ContactListController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1563778701380,
-            "changeTime": 1563778701380,
-            "contentHash": "b5d9675543cfee26f842910337afd23613b2a268"
+            "size": 464,
+            "modifiedTime": 1563781429888,
+            "changeTime": 1563781429888,
+            "contentHash": "44aca563f8592dac81cf93dc7f684c844deefdc1"
         }
     ],
     [
         "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/classes/ContactListController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/classes/ContactListController.cls-meta.xml",
             "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1563781061506,
+            "changeTime": 1563781061506,
+            "contentHash": "7f6517e5462e478a2d535000a85299d8a5a10871",
             "isMetadataFile": true,
-            "size": 199,
-            "modifiedTime": 1563778701381,
-            "changeTime": 1563778701381,
-            "contentHash": "6bbd8633856b491ed31de66d5beabeb59e7b942e"
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 19550,
+            "modifiedTime": 1563779754410,
+            "changeTime": 1563779754410,
+            "contentHash": "86f8a8a1411d332862dfedad71ca2a48629886d6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1563779754410,
+            "changeTime": 1563779754410,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
