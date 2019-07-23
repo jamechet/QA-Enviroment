@@ -4,6 +4,10 @@
         <apexClass>ContactListController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>ContactListControllerTest</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <custom>false</custom>
     <userLicense>Salesforce</userLicense>
     <userPermissions>

@@ -75,16 +75,15 @@
     [
         "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/classes",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1563778314341,
-            "changeTime": 1563778328680,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 128,
+            "modifiedTime": 1563781061508,
+            "changeTime": 1563781061508,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "97952bf9e9333439339901ad1a4adc820fbb4e5b"
         }
     ],
     [
@@ -244,23 +243,23 @@
             "sourcePath": "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/classes/ContactListController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 409,
-            "modifiedTime": 1563781061508,
-            "changeTime": 1563781061508,
-            "contentHash": "5f4f5caa950ae3a17c3201cfcf4a55a9045e9940"
+            "size": 464,
+            "modifiedTime": 1563781429888,
+            "changeTime": 1563781429888,
+            "contentHash": "44aca563f8592dac81cf93dc7f684c844deefdc1"
         }
     ],
     [
         "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/classes/ContactListController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/classes/ContactListController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1563781061506,
             "changeTime": 1563781061506,
-            "contentHash": "7f6517e5462e478a2d535000a85299d8a5a10871"
+            "contentHash": "7f6517e5462e478a2d535000a85299d8a5a10871",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
