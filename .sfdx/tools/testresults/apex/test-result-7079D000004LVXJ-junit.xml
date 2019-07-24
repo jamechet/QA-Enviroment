@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2019-07-24T11:43:16+10:00" hostname="https://platform-velocity-5161-dev-ed.cs76.my.salesforce.com" tests="1" failures="0"  errors="0"  time="0.01">
+        <properties>
+            <property name="outcome" value="Passed"/>
+            <property name="testsRan" value="1"/>
+            <property name="passing" value="1"/>
+            <property name="failing" value="0"/>
+            <property name="skipped" value="0"/>
+            <property name="passRate" value="100%"/>
+            <property name="failRate" value="0%"/>
+            <property name="testStartTime" value="Jul 24, 2019 11:43 AM"/>
+            <property name="testExecutionTime" value="0.01 s"/>
+            <property name="testTotalTime" value="0.01 s"/>
+            <property name="commandTime" value="6.18 s"/>
+            <property name="hostname" value="https://platform-velocity-5161-dev-ed.cs76.my.salesforce.com"/>
+            <property name="orgId" value="00D9D0000000UyIUAU"/>
+            <property name="username" value="test-pllfftecpkbe@example.com"/>
+            <property name="testRunId" value="7079D000004LVXJ"/>
+            <property name="userId" value="0059D000000GRucQAG"/>
+        </properties>
+        <testcase name="unitTestgetFiveLimitedContact" classname="ContactListCtrlTest" time="0.01">
+        </testcase>
+    </testsuite>
+</testsuites>

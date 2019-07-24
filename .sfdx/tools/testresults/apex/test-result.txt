@@ -1,0 +1,33 @@
+=== Test Reports
+FORMAT  FILE
+──────  ──────────────────────────────────────────────────────────────────────────────────────────────────────
+txt     /Users/723309/Desktop/QA-Enviroment/.sfdx/tools/testresults/apex/test-result.txt
+txt     /Users/723309/Desktop/QA-Enviroment/.sfdx/tools/testresults/apex/test-run-id.txt
+junit   /Users/723309/Desktop/QA-Enviroment/.sfdx/tools/testresults/apex/test-result-7079D000004LVXY-junit.xml
+json    /Users/723309/Desktop/QA-Enviroment/.sfdx/tools/testresults/apex/test-result-7079D000004LVXY.json
+
+=== Test Results
+TEST NAME                                          OUTCOME  MESSAGE  RUNTIME (MS)
+─────────────────────────────────────────────────  ───────  ───────  ────────────
+ContactListCtrlTest.unitTestgetFiveLimitedContact  Pass              14
+
+=== Test Summary
+NAME                 VALUE
+───────────────────  ─────────────────────────────────────────────────────────────
+Outcome              Passed
+Tests Ran            1
+Passing              1
+Failing              0
+Skipped              0
+Pass Rate            100%
+Fail Rate            0%
+Test Start Time      Jul 24, 2019 11:43 AM
+Test Execution Time  14 ms
+Test Total Time      14 ms
+Command Time         7806 ms
+Hostname             https://platform-velocity-5161-dev-ed.cs76.my.salesforce.com
+Org Id               00D9D0000000UyIUAU
+Username             test-pllfftecpkbe@example.com
+Test Run Id          7079D000004LVXY
+User Id              0059D000000GRucQAG
+
