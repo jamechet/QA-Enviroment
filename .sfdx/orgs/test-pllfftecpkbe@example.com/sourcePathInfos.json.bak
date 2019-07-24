@@ -281,10 +281,10 @@
             "sourcePath": "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/classes/ContactListCtrl.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 675,
-            "modifiedTime": 1563936096169,
-            "changeTime": 1563936096169,
-            "contentHash": "942481042d7fd63767a9396658e9985ae69b0d30"
+            "size": 713,
+            "modifiedTime": 1563935757328,
+            "changeTime": 1563935757328,
+            "contentHash": "cecf8183afb807ad3670bcc7be53e8a5a7b035bf"
         }
     ],
     [
@@ -303,14 +303,14 @@
     [
         "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/classes/ContactListCtrlTest.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/723309/Desktop/QA-Enviroment/force-app/main/default/classes/ContactListCtrlTest.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 1089,
             "modifiedTime": 1563935694032,
             "changeTime": 1563935694032,
-            "contentHash": "57c625b96d710857118ede921bdb575b57e3b9d3",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "57c625b96d710857118ede921bdb575b57e3b9d3"
         }
     ]
 ]
