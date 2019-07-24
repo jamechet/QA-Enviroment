@@ -1,13 +1,13 @@
 /**
-@author: Rabou Vong
-@company: Cognizant
+@author : Rabou Vong
+@company : Cognizant
 @description : ContactListControllerTest containing all the test methods which intent to cover all the functionlities from the Controller class.
  */
 @isTest
 public class ContactListCtrlTest {
     /**
-    @author: Rabou Vong
-    @company: Cognizant
+    @author : Rabou Vong
+    @company :  Cognizant
     @description : Data Mock up for testing with newly 5 contacts
      */
     @testSetup static void setup() {
@@ -19,8 +19,8 @@ public class ContactListCtrlTest {
         insert contacts;
     }
     /**
-    @author: Rabou Vong
-    @company: Cognizant
+    @author : Rabou Vong
+    @company : Cognizant
     @description : getContactTest will check if the size of the list is corrected
      */
     @isTest static void unitTestgetFiveLimitedContact() {
