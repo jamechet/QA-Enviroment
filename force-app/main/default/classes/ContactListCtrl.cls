@@ -11,6 +11,7 @@ public with sharing class ContactListCtrl {
     @return results
     */
     public List<Contact> getFiveLimitedContact() {
+        String understand = 'Helloboy';
         String queryStirng = 'SELECT Id, FirstName, LastName, Title, Email FROM Contact Limit 5';
         List<Contact> results = new List<Contact>();
         if (queryStirng != null && queryStirng != '') {
